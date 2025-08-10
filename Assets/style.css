@@ -8,7 +8,8 @@
 html {
   font-family: "Vazirmatn", sans-serif;
   line-height: 1.6;
-  font-size: 16px; /* Base font size */
+  font-size: 16px;
+  /* Base font size */
   /* Base font size */
   background-color: #fdfdfd;
   color: #222;
@@ -34,7 +35,7 @@ h3 {
 }
 
 h1 {
-  font-size:  2rem;
+  font-size: 2rem;
   margin-top: 1rem;
 }
 
@@ -158,12 +159,6 @@ footer {
 @media (max-width: 480px) {
 
   /* Mobile screens */
-  html {
-    /* font-size: 12px; */
-    line-height: 1.4;
-    /* Smaller base font for mobile */
-  }
-
   body {
     margin: 0.5rem;
     padding: 0.5rem;
