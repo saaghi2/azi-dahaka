@@ -159,7 +159,7 @@ footer {
 
   /* Mobile screens */
   html {
-    font-size: 12px;
+    /* font-size: 12px; */
     line-height: 1.4;
     /* Smaller base font for mobile */
   }
